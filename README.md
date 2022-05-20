@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ega Nanda Brilain</h1>
+<h1 align="center">Hi 👋, I'm Ega Nanda Briliain</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **PHP,JavaScript, and Laravel Fremwork**
