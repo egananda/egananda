@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ega Nanda Briliain</h1>
+<h1 align="center">Hi 👋, I'm Ega Nanda</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **PHP,JavaScript, and Laravel Fremwork**
 
 - 👨‍💻 All of my projects are available at [https://egananda.dev](https://egananda.dev)
 
-- 📫 How to reach me **eganandabrilain@gmail.com**
+- 📫 How to reach me **eganandabrilian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
